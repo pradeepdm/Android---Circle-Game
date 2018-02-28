@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Circles</string>
+    <string name="draw">Draw</string>
+    <string name="move">Move</string>
+    <string name="circles_title">Draw and Move Circles</string>
+    <string name="circle_limit">Circle count limited to 15</string>
+</resources>
